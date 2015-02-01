@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing MediaProvider.apk's Style-->
+
+<resources>
+    <style name="PickerDialogTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">@color/grey</item>
+        <item name="android:colorPrimaryDark">@color/grey</item>
+        <item name="android:colorAccent">@color/grey</item>
+		<item name="android:statusBarColor">@color/grey</item>
+    </style>
+</resources>

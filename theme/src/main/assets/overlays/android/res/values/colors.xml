@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- COLORS OVERRIDE FOR FRAMEWORKS-RES SHIT -->
+
+<resources>
+	<!-- DO NOT TOUCH THESE FUCKING VALUES! IT WILL CAUSE DECAPITATION -->
+    <color name="white">#ffeeeeee</color>
+	<color name="shiro">#ffffffff</color>
+	
+	<!-- DO AS YOU WILL WITH THESE -->
+	<color name="battery_saver_mode_color">#ff3b3b3b</color>
+    <color name="darker_gray">#ff3c393c</color>
+	<color name="holo_blue_light">#ff1976D2</color>
+    <color name="system_notification_accent_color">#ff1976D2</color>
+	
+    <color name="primary_text_default_material_light">#ffa6a6a6</color>
+    <color name="secondary_text_default_material_light">#ffa6a6a6</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
+	
+	<color name="highlighted_text_material_light">#660D47A1</color>
+    <color name="highlighted_text_material_dark">#660D47A1</color>
+	
+    <color name="material_deep_teal_200">#ff1976D2</color>
+    <color name="material_deep_teal_500">#ff0d47a1</color>
+    <color name="material_blue_grey_800">#ff292929</color>
+    <color name="material_blue_grey_900">#ff1f1f1f</color>
+    <color name="material_blue_grey_950">#ff000000</color>
+	
+    <color name="notification_icon_bg_color">#FF161e21</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffffffff</color>
+    <color name="btn_material_color">#ff1976D2</color>
+	
+	<color name="ripple_material_dark">#ff0D47A1</color>
+
+</resources>

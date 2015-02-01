@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Phone.apk's Styles-->
+
+<resources>
+    <style name="SettingsStyle" parent="@android:style/Theme.Material" />
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+</resources>

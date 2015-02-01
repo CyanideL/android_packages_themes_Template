@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing YouTube's Styles-->
+
+<resources>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material" />
+    <style name="Base.Theme.YouTube.Light" parent="@android:style/Theme.Material" />
+</resources>

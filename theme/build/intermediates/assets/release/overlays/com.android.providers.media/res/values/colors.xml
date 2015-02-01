@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing MediaProvider.apk's Colors-->
+
+<resources>
+	<!--User defined colors-->
+    <color name="grey">#ff212021</color>
+</resources>

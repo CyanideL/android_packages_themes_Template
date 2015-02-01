@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Play Music's Colors-->
+
+<resources>
+	<color name="play_music_primary">#ff212021</color>
+    <color name="play_music_secondary">#ff212021</color>
+
+	<color name="play_music_primary_disabled">#ff212021</color>
+	<color name="play_main_background">#ff000000</color>
+	<color name="app_background">#ff000000</color>
+	<color name="background_material_light">#ff000000</color>
+	<color name="background_floating_material_light">#ff000000</color>
+    <color name="material_blue_grey_800">#ff212021</color>
+
+	<color name="play_fg_primary">#ff777777</color>
+	<color name="material_fab_tint">#ff777777</color>
+
+	<color name="tabbed_now_playing_controls_bg_color">#ffffffff</color>
+	<color name="play_card_light_background">#ff212021</color>
+	<color name="app_background_light">#ff212021</color>
+	<color name="app_background_light_transparent">#e6212021</color>
+	
+	<color name="play_white">#ff000000</color>
+	<color name="play_white_half_transparent">#ff212021</color>
+	<color name="play_white_disabled">#ff212021</color>
+
+	<color name="current_text">#ffffffff</color>
+	<color name="white">#ff212021</color>
+	
+	<color name="signup_content_background">#ff000000</color>
+	<color name="nus_background">#ff212021</color>
+	<color name="leanback_track_row_highlight_color">#ff000000</color>
+	<color name="leanback_track_row_separator_highlight_color">#ff000000</color>
+		
+	<color name="lb_browse_header_color">#ff777777</color>
+	<color name="lb_playback_secondary_progress_color">#ff000000</color>
+	<color name="lb_playback_background_progress_color">#ff000000</color>
+</resources>

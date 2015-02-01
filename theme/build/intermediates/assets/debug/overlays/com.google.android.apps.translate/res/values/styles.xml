@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Translate's Styles-->
+
+<resources>
+    <style name="AppTitleTheme" parent="@android:style/Theme.Material" />
+    <style name="AppNoTitleTheme" parent="@android:style/Theme.Light.NoTitleBar" />
+    <style name="DialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material" />
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+		<item name="android:statusBarColor">@color/grey</item>
+	</style>
+ </resources>

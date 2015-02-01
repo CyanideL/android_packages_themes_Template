@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Hangout's Colors-->
+
+<resources>
+    <color name="quantum_googgreen700">#ff212021</color>
+    <color name="quantum_googgreen500">#ff212021</color>
+    <color name="quantum_googgreen400">#ff777777</color>
+
+	<color name="default_status_bar_color">#ff212021</color>
+	<color name="bg_item_touch_feedback">#64000000</color>
+</resources>
