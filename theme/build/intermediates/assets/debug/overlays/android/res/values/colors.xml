@@ -21,10 +21,10 @@
     <color name="highlighted_text_material_dark">#660D47A1</color>
 	
     <color name="material_deep_teal_200">#ff1976D2</color>
-    <color name="material_deep_teal_500">#ff1976D2</color>
-    <color name="material_blue_grey_800">#ff0D47A1</color>
-    <color name="material_blue_grey_900">#ff0D47A1</color>
-    <color name="material_blue_grey_950">#ff0D47A1</color>
+    <color name="material_deep_teal_500">#ff0d47a1</color>
+    <color name="material_blue_grey_800">#ff292929</color>
+    <color name="material_blue_grey_900">#ff1f1f1f</color>
+    <color name="material_blue_grey_950">#ff000000</color>
 	
     <color name="notification_icon_bg_color">#FF161e21</color>
     <color name="notification_action_color_filter">#ffffffff</color>
