@@ -2,6 +2,6 @@
 <!--You are editing CellBroadcasterReceiver.apk's Styles-->
 
 <resources>
-    <color name="cell_broadcast_color_primary">#ff212021</color>
-    <color name="cell_broadcast_color_primary_dark">#ff212021</color>
+    <color name="cell_broadcast_color_primary">#ff292929</color>
+    <color name="cell_broadcast_color_primary_dark">#ff1f1f1f</color>
 </resources>

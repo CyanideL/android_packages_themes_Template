@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing DocumentsUI.apk's Colors-->
+<!--COLORS OVERRIDE FOR DOCUMENTS SHIT-->
 
 <resources>
-	<!--User defined colors-->
+	<!--THESE BE MY COLORS DAMNIT-->
     <color name="grey">#ff777777</color>
-    <color name="dark_material">#ff212021</color>
+    <color name="dark_material">#ff1f1f1f</color>
 	
     <color name="material_grey_50">#ff000000</color>
     <color name="material_grey_300">#ff1f1f1f</color>

@@ -4,5 +4,6 @@
     <shape android:shape="rectangle">
         <corners android:radius="2.0dip" />
         <solid android:color="#FF161e21" />
+        <item android:textColor="@color/stupid_white"/>
     </shape>
 </inset>

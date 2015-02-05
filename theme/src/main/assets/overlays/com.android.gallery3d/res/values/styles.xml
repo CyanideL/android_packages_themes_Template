@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Gallery3d.apk's Styles-->
+<!--STYLE OVERRIDES FOR GALLERY SHIT-->
 
 <resources>
 	<style name="Theme.GalleryBase" parent="@android:style/Theme.Material" />

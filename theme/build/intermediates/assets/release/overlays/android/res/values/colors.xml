@@ -9,7 +9,7 @@
 	<!-- DO AS YOU WILL WITH THESE -->
 	<color name="battery_saver_mode_color">#ff3b3b3b</color>
     <color name="darker_gray">#ff3c393c</color>
-	<color name="holo_blue_light">#ff1976D2</color>
+	<color name="holo_blue_light"> </color>
     <color name="system_notification_accent_color">#ff1976D2</color>
 	
     <color name="primary_text_default_material_light">#ffa6a6a6</color>

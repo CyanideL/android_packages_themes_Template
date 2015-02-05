@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing ThemeChooser.apk's Colors-->
+<!--COLOR OVERRIDES FOR THEME CHOOSER SHIT-->
 
 <resources>
     <color name="detailedview_pager_background">#ff000000</color>
     <color name="title_author_background">#ff000000</color>
     <color name="offwhite">#ff000000</color>
     <color name="author_grey">#ff000000</color>
-    <color name="primary">#ff212021</color>
-    <color name="primary_dark">#ff212021</color>
-    <color name="accent">#ff212021</color>
+    <color name="primary">#ff292929</color>
+    <color name="primary_dark">#ff1f1f1f</color>
+    <color name="accent">#ff1976D2</color>
 	
     <color name="primary_text_color">#ffffffff</color>
     <color name="apply_button_text_color_disabled">#ffffffff</color>
-    <color name="apply_button_progress_color">#ff484648</color>
-    <color name="apply_button_default_color">#ff000000</color>
-    <color name="apply_button_pressed_color">#90000000</color>
+    <color name="apply_button_progress_color">#ff0d47a1</color>
+    <color name="apply_button_default_color">#ff1976D2</color>
+    <color name="apply_button_pressed_color">#901976D2</color>
     <color name="designed_for_color">#ffffffff</color>
 	
-    <color name="drawer_item_default">#ff212021</color>
+    <color name="drawer_item_default">#ff292929</color>
     <color name="drawer_item_pressed">#90000000</color>
-    <color name="drawer_divider_line">#ff484648</color>
+    <color name="drawer_divider_line">#ff1976D2</color>
 	
-    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+    <color name="default_circle_indicator_fill_color">#ff1976D2</color>
 </resources>

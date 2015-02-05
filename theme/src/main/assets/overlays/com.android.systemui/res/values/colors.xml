@@ -16,11 +16,12 @@
     <color name="notification_material_background_dimmed_color">#ff0d0c0d</color>
     <color name="notification_material_background_low_priority_color">#ff0d0c0d</color>
     <color name="notification_material_background_media_default_color">#ff0d0c0d</color>
-    <color name='notification_header_background_color'>#ff0d0c0d</color>
+    <color name='notification_header_background_color'>#ff000000</color>
 		
 	<!-- Misc ROM based tweaks -->
     <color name="status_bar_traffic_color">#ff1976D2</color>
     <color name="gesture_overlay_background_fill_color">#80000000</color>
     <color name="fab_color">#ff1976D2</color>
     <color name="floating_action_button_icon_color">#ff1976D2</color>
+    <color name="stupid_white">#ffffffff</color>
 </resources>
