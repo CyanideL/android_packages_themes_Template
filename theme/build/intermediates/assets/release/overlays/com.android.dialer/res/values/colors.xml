@@ -24,7 +24,7 @@
     <color name="dialpad_secondary_text_color">#ac1976D2</color>
     <color name="dialpad_digits_text_color">#ff1976D2</color>
     <color name="dialpad_icon_tint">#ff0d47a1</color>
-    <color name="dialpad_voicemail_tint">#ff0d47a1/color>
+    <color name="dialpad_voicemail_tint">#ff0d47a1</color>
 
 	<color name="searchbox_text_color">#ff000000</color>
     <color name="searchbox_background_color">#ff000000</color>

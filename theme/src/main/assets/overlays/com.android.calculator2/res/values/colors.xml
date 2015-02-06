@@ -13,7 +13,7 @@
     <color name="primary_material_dark">#ff1f1f1f</color>
     <color name="primary_material_light">#ff1f1f1f</color>
     <color name="primary_dark_material_light">#ff000000</color>
-    <color name="accent_material_light">#ff1976D21</color>
+    <color name="accent_material_light">#ff1976D2</color>
     <color name="primary_text_default_material_light">#ff1976D2</color>
     <color name="secondary_text_default_material_light">#b31976D2</color>
     <color name="primary_text_disabled_material_light">#4d1976D2</color>

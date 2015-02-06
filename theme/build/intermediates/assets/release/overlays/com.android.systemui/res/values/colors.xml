@@ -8,15 +8,26 @@
     <color name="system_accent_color">#ff1976D2</color>
 	
 	<!-- Quick Settings in Notification drawer -->	
+     <color name="qs_text">#ff1976D2</color>
+    <color name="qs_tile_divider">#ff1976D2</color>
     <color name="qs_tile_text">#ff1976D2</color>
+    <color name="qs_subhead">#99ffffff</color>
+    <color name="qs_detail_empty">#241d2427</color>
+    <color name="qs_detail_transition">#ff000000</color>
 	
-	<!-- All notification popups listed here -->
+	<!-- NOTIFICATION POPUP COLORS -->
     <color name="notification_legacy_background_color">#ff0d0c0d</color>
     <color name="notification_material_background_color">#ff0d0c0d</color>
     <color name="notification_material_background_dimmed_color">#ff0d0c0d</color>
     <color name="notification_material_background_low_priority_color">#ff0d0c0d</color>
     <color name="notification_material_background_media_default_color">#ff0d0c0d</color>
     <color name='notification_header_background_color'>#ff000000</color>
+    
+    <!--NOTIFICATION GUTS SHIT -->
+    <color name="notification_guts_bg_color">@color/system_secondary_color</color>
+    <color name="notification_guts_title_color">#ff1976D2</color>
+    <color name="notification_guts_text_color">#FFffffff</color>
+    <color name="notification_guts_btn_color">#ff1976D2</color>
 		
 	<!-- Misc ROM based tweaks -->
     <color name="status_bar_traffic_color">#ff1976D2</color>

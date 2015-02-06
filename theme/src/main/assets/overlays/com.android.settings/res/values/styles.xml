@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- STYLES OVERRIDE FOR SETTINGS -->
+<!-- STYLES OVERRIDE FOR SETTINGS SHIT -->
 
 <resources>
-	<!-- Style of main settings, do not remove SettingsBase as parent has been changed -->
-	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material" />
-	<style name="Theme.Settings" parent="@style/Theme.SettingsBase">
-		<item name="android:background">@color/theme_primary</item>
-		<item name="android:statusBarColor">@color/theme_primary</item>
-        <item name="android:colorAccent">@color/theme_accent</item>
-	</style>
+	<!-- MAIN SETTINGS STYLES SHEET -->
+	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material" >
+	<item name="android:background">#ff11151b</item>
+		<item name="android:textColorPrimary">@color/text_color_primary</item>
+		<item name="android:navigationBarColor">@color/theme_primary</item>
+		<item name="android:colorPrimaryDark">@color/theme_primary</item>
+		<item name="android:colorPrimary">@color/theme_accent</item>
+		<item name="android:textColorSecondary">@color/text_color_secondary</item>
+     </style>
 	
-	<!-- About phone and Status windows, do not remove SubSettingsDialogWhenLarge as parent has been changed -->
-	<style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge" />
-	<style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
-		<item name="android:background">@color/dashboard_background_color</item>
-		<item name="android:statusBarColor">@color/theme_primary</item>
-        <item name="android:colorAccent">@color/theme_accent</item>
+	<!-- SUBSETTINGS STYLE SHEET -->
+	<style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
+	  <item name="android:background">@color/theme_primary</item>
+	  <item name="android:textColorPrimary">@color/theme_primary_lighter_dark</item>
+	  <item name="android:textColorSecondary">@color/text_color_secondary</item>
+	    <item name="android:colorPrimaryDark">@color/theme_primary</item>
+		<item name="android:colorPrimary">@color/theme_primary_lighter_dark</item>
+      
+    </style>
+
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+
+
     </style>
 	
 	<!-- Wifi dialog and popup text -->
@@ -23,10 +32,10 @@
 		<item name="android:textColor">@color/theme_accent</item>
     </style>
     <style name="wifi_item_content">
-		<item name="android:textColor">@color/theme_accent</item>
+		<item name="android:textColor">#ffffffff</item>
     </style>
     <style name="wifi_item_edit_content">
-		<item name="android:textColor">@color/theme_accent</item>
+		<item name="android:textColor">#ffffff</item>
     </style>
 
     <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
