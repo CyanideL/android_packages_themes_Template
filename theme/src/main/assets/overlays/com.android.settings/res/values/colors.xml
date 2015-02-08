@@ -11,7 +11,7 @@
     <color name="wifi_assistant_color_accent">#ff78909c</color>
 
 	<!-- Edits the hues in the main settings, the stuff you want to edit -->
-	<color name="dashboard_background_color">#ff363236</color>
+	<color name="dashboard_background_color">#ff000000</color>
     <color name="switchbar_background_color">#ff0d0c0d</color>
     <color name="switch_accent_color">#ff1976D2</color>
     <color name="theme_primary">#ff000000</color>
