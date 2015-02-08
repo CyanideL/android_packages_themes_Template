@@ -16,6 +16,6 @@
   -->
 
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="@color/system_primary_color" >
+    android:color="#ff000000" >
    
 </ripple>

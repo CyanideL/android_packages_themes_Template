@@ -16,7 +16,7 @@
     <color name="switch_accent_color">#ff1976D2</color>
     <color name="theme_primary">#ff000000</color>
     <color name="theme_primary_light_dark">#ff0d0c0d</color>
-    <color name="theme_primary_lighter_dark">#ff363236</color>
+    <color name="theme_primary_lighter_dark">#ff1c191c</color>
     <color name="text_color_primary">#ffffffff</color>
     <color name="text_color_secondary">#ffe6e6e6</color>
 

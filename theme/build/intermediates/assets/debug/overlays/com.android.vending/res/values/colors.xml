@@ -11,17 +11,17 @@
     <color name="account_selector_background">#ff000000</color>
     <color name="action_bar_selected_bg">#ff000000</color>
 
-	<color name="primary_text_default_material_light">#de000000</color>
+	<color name="primary_text_default_material_light">#deffffff</color>
     <color name="secondary_text_default_material_light">#b3ffffff</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
-    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
     <color name="secondary_text_disabled_material_light">#36ffffff</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
 
 	<color name="play_fg_primary">#ffffffff</color>
-    <color name="primary_material_dark">#ffffffff</color>
+    <color name="primary_material_dark">#ff363236</color>
     <color name="play_card_light_background">#ff212021</color>
 
     <color name="play_banner_light_fg">#ff000000</color>

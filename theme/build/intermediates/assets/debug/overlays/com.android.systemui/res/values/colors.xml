@@ -21,7 +21,7 @@
     <color name="notification_material_background_dimmed_color">#ff0d0c0d</color>
     <color name="notification_material_background_low_priority_color">#ff0d0c0d</color>
     <color name="notification_material_background_media_default_color">#ff0d0c0d</color>
-    <color name='notification_header_background_color'>#ff000000</color>
+    <color name='notification_header_bg'>#ff000000</color>
     
     <!--NOTIFICATION GUTS SHIT -->
     <color name="notification_guts_bg_color">@color/system_secondary_color</color>

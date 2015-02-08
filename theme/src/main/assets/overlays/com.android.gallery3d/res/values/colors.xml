@@ -9,7 +9,7 @@
     <color name="filtershow_categoryview_background">#ff000000</color>
 
     <color name="primary">#ff1f1f1f</color>
-    <color name="primary_dark">#ff1f1f1f</color>
+    <color name="primary_dark">#ff0d0c0d</color>
     <color name="accent">#ff1976D2</color>
     <color name="fab">#ff1976D2</color>
 	<color name="floating_action_button_touch_tint">#ff777777</color>

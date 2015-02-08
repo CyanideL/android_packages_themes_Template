@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Dialer.apk's Styles-->
+<!--STYLES OVERRIDES FOR DIALER SHIT-->
 
 <resources>
     <style name="SettingsStyle" parent="@android:style/Theme.Material" />

@@ -2,7 +2,7 @@
 <!--OVERRIDES FOR SUPERSU SHIT (SORRY CHAINFIRE)-->
 
 <resources>
-    <color name="grey">#ff212021</color>
+    <color name="black">#ff000000</color>
 
     <color name="material_teal_500">#ff1976D2</color>
     <color name="material_teal_900">#ff0D47A1</color>

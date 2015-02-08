@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+    <!-- SOME STYLE OVERRIDES FOR FRAMEWORK SHIT -->
 <resources>
   	
    
@@ -40,7 +42,7 @@
 
     <style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.DeviceDefault">
 		<item name="android:windowBackground">@color/material_blue_grey_950</item>
-		<item name="android:colorBackgroundCacheHint">@color/material_blue_grey_800</item>
+		<item name="android:colorBackgroundCacheHint">@color/material_blue_grey_900</item>
     </style>
 
 

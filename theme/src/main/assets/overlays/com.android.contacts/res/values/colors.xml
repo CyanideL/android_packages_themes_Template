@@ -2,16 +2,16 @@
 <!-- COLOR OVERRIDES FOR CONTACTS SHIT -->
 
 <resources>
-    <color name="action_bar_background">#ff0d47a1</color>
-	<color name="dialer_theme_color">#ff292929</color>
+    <color name="action_bar_background">#ff1f1f1f</color>
+	<color name="dialer_theme_color">#ff363236</color>
     <color name="dialer_theme_color_dark">#ff1f1f1f</color>
 	<color name="primary_color_dark">#ff1f1f1f</color>
-    <color name="primary_color">#ff292929</color>
+    <color name="primary_color">#ff363236</color>
     <color name="text_color">#ffFFFFFF</color>
 	
 	<!--FOR THOSE TIMES YOU CLICK ON ONE OF YOUR CONTACTS-->
 	<color name="card_margin_color">#ff0f0f0f</color>
-	<color name="cardview_light_background">#ff292929</color>
+	<color name="cardview_light_background">#ff363236</color>
     <color name="cardview_dark_background">#ff1f1f1f</color>
     <color name="cardview_shadow_start_color">#37ffffff</color>
     <color name="cardview_shadow_end_color">#03ffffff</color>

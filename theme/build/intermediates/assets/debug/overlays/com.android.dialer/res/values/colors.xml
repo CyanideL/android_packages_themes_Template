@@ -2,12 +2,12 @@
 <!--COLOR OVERRIDES FOR DIALER SHIT-->
 
 <resources>
-    <color name="dialer_theme_color">#ff212021</color>
-    <color name="dialer_theme_color_dark">#ff212021</color>
+    <color name="dialer_theme_color">#ff1f1f1f</color>
+    <color name="dialer_theme_color_dark">#ff0d0c0d</color>
     <color name="dialtacts_theme_color">#ff1976D2</color>
     <color name="people_app_theme_color">#ff1976D2</color>
 
-    <color name="actionbar_background_color_dark">#ff212021</color>
+    <color name="actionbar_background_color_dark">#ff0d0c0d</color>
     <color name="background_dialpad">#ff000000</color>
     <color name="background_dialer_white">#ff000000</color>
     <color name="background_dialer_light">#ff000000</color>
@@ -26,7 +26,7 @@
     <color name="dialpad_icon_tint">#ff0d47a1</color>
     <color name="dialpad_voicemail_tint">#ff0d47a1</color>
 
-	<color name="searchbox_text_color">#ff000000</color>
+	<color name="searchbox_text_color">#ffffffff</color>
     <color name="searchbox_background_color">#ff000000</color>
     <color name="searchbox_hint_text_color">#ffffffff</color>
     <color name="searchbox_icon_tint">#ff1976D2</color>
@@ -44,9 +44,9 @@
     <color name="favorite_contacts_separator_color">#ff000000</color>
 
     <color name="button_selected_color">#ff37474f</color>
-    <color name="dialer_dialpad_touch_tint">#64b0bec5</color>
+    <color name="dialer_dialpad_touch_tint">#641976D2</color>
     <color name="item_selected">#66607d8b</color>	
-    <color name="incall_dialpad_touch_tint">#64b0bec5</color>
+    <color name="incall_dialpad_touch_tint">#641976D2</color>
     <color name="recent_call_log_item_phone_icon_tint">#ff1976D2</color>
     <color name="quickcontact_default_photo_tint_color_dark">#ff212021</color>
 
@@ -54,7 +54,7 @@
     <color name="contact_list_name_text_color">#ffffffff</color>
     <color name="call_log_action_text">#ffffffff</color>
     <color name="dialtacts_secondary_text_color">#ffaaaaaa</color>
-    <color name="dialer_green_highlight_color">#ffb0bec5</color>
+    <color name="dialer_green_highlight_color">#ff1976D2</color>
     <color name="dialtacts_primary_text_color">#ff6a6a6a</color>
     <color name="frequently_contacted_title_color">#ff1976D2</color>
     <color name="nofavorite_text_color">#ffffffff</color>
