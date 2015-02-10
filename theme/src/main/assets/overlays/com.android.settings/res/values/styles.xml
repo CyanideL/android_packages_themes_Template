@@ -1,51 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- STYLES OVERRIDE FOR SETTINGS SHIT -->
+<!-- LET'S SET THE STYLES FOR THIS SETTINGS SHIT -->
 
 <resources>
 	<!-- MAIN SETTINGS STYLES SHEET -->
-	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material" >
-	<item name="android:background">#ff11151b</item>
-		<item name="android:textColorPrimary">@color/text_color_primary</item>
-		<item name="android:navigationBarColor">@color/theme_primary</item>
-		<item name="android:colorPrimaryDark">@color/theme_primary</item>
-		<item name="android:colorPrimary">@color/theme_primary</item>
-		<item name="android:textColorSecondary">@color/text_color_secondary</item>
-     </style>
-	
+    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material.Settings">
+        <item name="android:textColor">@*common:color/light_text_color</item>
+        <item name="android:textColorPrimary">@*common:color/primary_text_color</item>
+        <item name="android:textColorSecondary">@*common:color/secondary_text_color</item>
+        <item name="android:textColorTertiary">@*common:color/secondary_text_color</item>
+        <item name="android:colorPrimary">@*common:color/dialog_bg_color</item>
+        <item name="android:colorPrimaryDark">@*common:color/background_material_dark</item>
+        <item name="android:colorAccent">@*common:color/theme_accent</item>
+        <item name="android:navigationBarColor">@*common:color/background_transparent</item>
+        <item name="android:colorBackground">@*common:color/background_material_light</item>
+        <item name="android:statusBarColor">@*common:color/background_material_black</item>
+    </style>
+
 	<!-- SUBSETTINGS STYLE SHEET -->
 	<style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
-	  <item name="android:background">@color/theme_primary_lighter_dark</item>
-	  <item name="android:textColorPrimary">@color/theme_primary_lighter_dark</item>
-	  <item name="android:textColorSecondary">@color/text_color_secondary</item>
-	    <item name="android:colorPrimaryDark">@color/theme_primary_lighter_dark</item>
-		<item name="android:colorPrimary">@color/theme_primary_lighter_dark</item>
-      
+	  <item name="android:background">@*common:color/theme_primary</item>
+	  <item name="android:textColorPrimary">@*common:color//theme_primary_lighter_dark</item>
+	  <item name="android:textColorSecondary">@*common:color/text_color_secondary</item>
+	  <item name="android:colorPrimaryDark">@*common:color/theme_primary_lighter_dark</item>
+	  <item name="android:colorPrimary">@*common:color/theme_primary</item>
     </style>
 
-    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge"/>
 
-
-    </style>
-	
 	<!-- Wifi dialog and popup text -->
 	<style name="wifi_item_label">
-		<item name="android:textColor">@color/theme_accent</item>
+		<item name="android:textColor">@*common:color/primary_text_color</item>
     </style>
     <style name="wifi_item_content">
-		<item name="android:textColor">#ffffffff</item>
+		<item name="android:textColor">@*common:color/secondary_text_color</item>
     </style>
     <style name="wifi_item_edit_content">
-		<item name="android:textColor">#ffffff</item>
+		<item name="android:textColor">@*common:color/accent_text_color</item>
     </style>
 
     <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
-
     <!-- Used by the ActionBar -->
-    <item name="android:colorPrimary">@color/theme_primary_lighter_dark</item>
+    <item name="android:colorPrimary">@*common:color/background_material_dark</item>
     <!-- Used by the StatusBar -->
-    <item name="android:colorPrimaryDark">@color/theme_primary</item>
+    <item name="android:colorPrimaryDark">@color/background_material_black</item>
     <!-- Used by controls, e.g. CheckBox, ProgressBar, etc. -->
-    <item name="android:colorAccent">@color/theme_accent</item>
+    <item name="android:colorAccent">@*common:color/theme_accent</item>
     </style>
 
 </resources>

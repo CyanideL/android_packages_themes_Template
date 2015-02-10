@@ -18,8 +18,39 @@
 */
 -->
 <resources>
-    <color name="text">#ffffffff</color>
-    <color name="background">#88000000</color>
-    <color name="ripple">#40ffffff</color>
+    <!--THESE ARE COMMON COLOR DEFINITIONS THAT CAN BE USED AND ABUSED THROUGHOUT THE WHOLE THEME-->
+
+    <!--Text Color Definitions-->
+    <color name="primary_text_color">#ffffffff</color>
+    <color name="secondary_text_color">#ffe6e6e6</color>
+    <color name="accent_text_color">#ff1976D2</color>
+    <color name="primary_text_light">#ff000000</color>
+    <color name="secondary_text_light">#ff333333/color>
+
+    <!-- Background Color Definitions-->
+    <color name="background_material_black">#ff000000</color>
+    <color name="background_material_dark">#ff1f1f1f</color>
+    <color name="background_material_medium">#ff333333</color>
+    <color name="background_material_light">#ff4d4d4d</color>
+    <color name="background_transparent">#40000000</color>
+
+    <!--Accent Colors-->
+    <color name="theme_accent">#ff1976D2</color>
+    <color name="theme_accent_dark">#ff11508e</color>
+    <color name="switch_accent_on">#ff1976D2</color>
+    <color name="switch_accent_off">#cc11508e</color>
+    <color name="material_radio_btn">#ff1976D2</color>
+    <color name="material_check_box">#ff1976D2</color>
+    <color name="ripple">#401976D2</color>
+
+    <!--Other Colors Just Because We Can-->
+    <color name="notification_header_bg">#ff000000</color>
+    <color name="notification_guts_bg">#ff1f1f1f</color>
+    <color name="notification_guts_primary_text">#ff1976D2</color>
+    <color name="notification_guts_secondary_text">#ffffffff</color>
+    <color name="dialog_text_color_primary">#ff1976D2</color>
+    <color name="dialog_text_color_secondary">#ffffffff</color>
+    <color name="dialog_bg_color">#ff1f1f1f</color>
+
 </resources>
 

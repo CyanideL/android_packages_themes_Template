@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing SystemUI.apk's Colors-->
+<!--COLOR OVERRIDES FOR SYSTEM UI SHIT-->
 
 <resources>
 	<!-- Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail) -->	
