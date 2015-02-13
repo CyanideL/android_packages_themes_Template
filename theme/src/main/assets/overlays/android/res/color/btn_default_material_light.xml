@@ -17,6 +17,6 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_enabled="false"
 
-          android:color="@color/material_deep_teal_200"/>
-    <item android:color="@color/material_deep_teal_200"/>
+          android:color="@*common:color/theme_accent"/>
+    <item android:color="@*common:color/theme_accent"/>
 </selector>

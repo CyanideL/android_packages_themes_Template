@@ -1,55 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- SOME STYLE OVERRIDES FOR FRAMEWORK SHIT -->
+    <!--LET'S START MAKING THESE DIALOGS AND POPUPS AND WIDGET SHITS LOOK BADASS -->
+
 <resources>
-  	
-   
-	  
-	   
-	<style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
-         <item name="android:textColor">#ffcfcfcf</item>
-    </style>
-    
-	<style name="TextAppearance.Material.Notification.Time" parent="@android:style/TextAppearance.Material.Notification">
-     	<item name="android:textColor">#ffcfcfcf</item>
-    </style>
-    <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification">
-        <item name="android:textColor">#ffffffff</item>
-        
-        
-    </style>
-   
-    <style name="Theme" parent="@android:style/Theme">
-        <item name="android:windowBackground">@color/material_blue_grey_900</item>
-        <item name="android:colorBackgroundCacheHint">@color/material_blue_grey_800</item>
-        <item name="android:colorBackground">@color/material_blue_grey_950</item>
-        <item name="android:panelColorForeground">@color/material_deep_teal_200</item>
-        <item name="android:panelColorBackground">@color/material_blue_grey_900</item>
-    </style>
     <style name="Theme.Black" parent="@android:style/Theme.Black">
-        <item name="android:colorBackground">@color/material_blue_grey_950</item>
-        <item name="android:windowBackground">@color/material_blue_grey_900</item>
-    </style>
-    <style name="TextAppearance.Holo.DialogWindowTitle" parent="@android:style/TextAppearance.Holo.DialogWindowTitle">
-        <item name="android:textColor">@color/white</item>
-    </style>
-    <style name="Theme.Material" parent="@android:style/Theme.Material">
-        <item name="android:panelColorBackground">@color/material_blue_grey_900</item>
-        <item name="android:windowBackground">@color/material_blue_grey_950</item>
-        <item name="android:panelColorForeground">@color/material_deep_teal_200</item>
-       
+        <item name="android:panelColorBackground">@*common:color/background_material_dark</item>
+        <item name="android:panelColorForeground">@*common:color/secondary_text_color</item>
+        <item name="android:colorBackground">@*common:color/background_material_black</item>
+        <item name="android:colorForeground">@*common:color/primary_text_color</item>
+        <item name="android:windowBackground">@*common:color/background_material_dark</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:colorBackgroundCacheHint">@*common:color/background_material_10_black</item>
+        <item name="android:colorControlActivated">@*common:color/theme_accent</item>
+        <item name="android:statusBarColor">@*common:color/background_material_dark</item>
     </style>
 
-    <style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.DeviceDefault">
-		<item name="android:windowBackground">@color/material_blue_grey_950</item>
-		<item name="android:colorBackgroundCacheHint">@color/material_blue_grey_900</item>
+    <!--actionbar-->
+    <style name="Widget.Material.ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
+    </style>
+    <style name="Widget.Material.ActionBar.Solid" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
     </style>
 
+    <!--TextAppearance-->
+    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">@*common:color/primary_text_color</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/secondary_text_color</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Title" parent="@style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/accent_text_color</item>
+    </style>
 
-    <style name="Theme.DeviceDefault.Light.Dialog" parent="@android:style/Theme.DeviceDefault.Dialog" />
-
-
-    <style name="Widget.DeviceDefault.Light" parent="@android:style/Widget.Material" />
-
-     
 </resources>

@@ -3,6 +3,7 @@
 
 <resources>
     <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
 
     <color name="material_teal_500">#ff1976D2</color>
     <color name="material_teal_900">#ff0D47A1</color>

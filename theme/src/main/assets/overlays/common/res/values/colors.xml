@@ -25,7 +25,7 @@
     <color name="secondary_text_color">#ffe6e6e6</color>
     <color name="accent_text_color">#ff1976D2</color>
     <color name="primary_text_light">#ff000000</color>
-    <color name="secondary_text_light">#ff333333/color>
+    <color name="secondary_text_light">#ff333333</color>
 
     <!-- Background Color Definitions-->
     <color name="background_material_black">#ff000000</color>
@@ -33,6 +33,18 @@
     <color name="background_material_medium">#ff333333</color>
     <color name="background_material_light">#ff4d4d4d</color>
     <color name="background_transparent">#40000000</color>
+
+    <!--Transparent Color Definitions For Whatever We Want Them For -->
+    <color name="background_material_10_black">#1A000000</color> <!-- 10% Transparency-->
+    <color name="background_material_25_black">#40000000</color> <!-- 25% Transparency-->
+    <color name="background_material_50_black">#80000000</color> <!-- 50% Transparency-->
+    <color name="background_material_75_black">#BF000000</color> <!-- 75% Transparency-->
+
+    <color name="theme_accent_10">#1A1976D2</color> <!-- 10% Transparency-->
+    <color name="theme_accent_25">#401976D2</color> <!-- 25% Transparency-->
+    <color name="theme_accent_50">#801976D2</color> <!-- 50% Transparency-->
+    <color name="theme_accent_75">#BF1976D2</color> <!-- 75% Transparency-->
+
 
     <!--Accent Colors-->
     <color name="theme_accent">#ff1976D2</color>

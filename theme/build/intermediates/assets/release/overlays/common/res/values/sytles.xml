@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- LET'S CHANGE SOME MORE SHIT SO IT LOOKS BADASS AS HELL -->
+
+    <style name="Theme.Material.Black" parent="@android:style/Theme.Material">
+        <item name="android:panelColorBackground">@*common:color/background_material_dark</item>
+        <item name="android:panelColorForeground">@*common:color/secondary_text_color</item>
+        <item name="android:colorBackground">@*common:color/background_material_dark</item>
+        <item name="android:colorForeground">@*common:color/primary_text_color</item>
+        <item name="android:windowBackground">@*common:color/background_material_black</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@*common:color/background_material_10_black</item>
+        <item name="android:colorControlActivated">@*common:color/theme_accent</item>
+        <item name="android:statusBarColor">@*common:color/background_material_dark</item>
+        <item name="android:navigationBarColor">@*common:color/background_material_black</item>
+    </style>
+
+</resources>

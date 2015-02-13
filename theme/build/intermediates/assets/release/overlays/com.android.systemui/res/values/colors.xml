@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing SystemUI.apk's Colors-->
+<!--COLOR OVERRIDES FOR SYSTEM UI SHIT-->
 
 <resources>
 	<!-- Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail) -->	
-    <color name="system_primary_color">#ff000000</color>
-    <color name="system_secondary_color">#ff1f1f1f</color>
-    <color name="system_accent_color">#ff1976D2</color>
+    <color name="system_primary_color">@*common:color/background_material_black</color>
+    <color name="system_secondary_color">@*common:color/background_material_dark</color>
+    <color name="system_accent_color">@*common:color/theme_accent</color>
 	
 	<!-- Quick Settings in Notification drawer -->	
-     <color name="qs_text">#ff1976D2</color>
+    <color name="qs_text">#ff1976D2</color>
     <color name="qs_tile_divider">#ff1976D2</color>
     <color name="qs_tile_text">#ff1976D2</color>
     <color name="qs_subhead">#99ffffff</color>
     <color name="qs_detail_empty">#241d2427</color>
     <color name="qs_detail_transition">#ff000000</color>
 	
-	<!-- NOTIFICATION POPUP COLORS -->
+	<!-- NOTIFICATION POPUP SHIT -->
     <color name="notification_legacy_background_color">#ff0d0c0d</color>
     <color name="notification_material_background_color">#ff0d0c0d</color>
     <color name="notification_material_background_dimmed_color">#ff0d0c0d</color>
@@ -34,5 +34,5 @@
     <color name="gesture_overlay_background_fill_color">#80000000</color>
     <color name="fab_color">#ff1976D2</color>
     <color name="floating_action_button_icon_color">#ff1976D2</color>
-    <color name="stupid_white">#ffffffff</color>
+
 </resources>

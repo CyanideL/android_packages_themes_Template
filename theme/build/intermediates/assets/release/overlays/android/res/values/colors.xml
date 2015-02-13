@@ -31,7 +31,8 @@
     <color name="notification_media_primary_color">#ffffffff</color>
     <color name="notification_media_secondary_color">#ffffffff</color>
     <color name="btn_material_color">#ff1976D2</color>
-	
+    <color name="background">#ff000000</color>
+    <color name="text">#ffffffff</color>
 	<color name="ripple_material_dark">#ff0D47A1</color>
 
 </resources>
