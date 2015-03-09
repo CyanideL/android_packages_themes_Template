@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Google Play's Colors-->
-<!--Only edit if you know what you're doing, shithead.-->
+<!--PLAY STORE SHIT, LET'S EDIT THIS BITCH, OH AND DON'T FUCK THIS ONE UP-->
 
 <resources>
     <color name="play_multi_primary">#ff000000</color>
     <color name="play_multi_primary_disabled">#ff000000</color>
     <color name="play_multi_secondary">#ff000000</color>
 
-    <color name="play_action_button_pressed_grey">#ffff0000</color>
+    <color name="play_action_button_pressed_grey">#ff1976D2</color>
     <color name="account_selector_background">#ff000000</color>
     <color name="action_bar_selected_bg">#ff000000</color>
 
-	<color name="primary_text_default_material_light">#deffffff</color>
-    <color name="secondary_text_default_material_light">#b3ffffff</color>
+	<color name="primary_text_default_material_light">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#ff1976D2</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
-    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_dark">#ff1976D2</color>
     <color name="primary_text_disabled_material_light">#39ffffff</color>
-    <color name="secondary_text_disabled_material_light">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#ff1976D2</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
-    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#ff1976D2</color>
 
 	<color name="play_fg_primary">#ffffffff</color>
     <color name="primary_material_dark">#ff363236</color>
-    <color name="play_card_light_background">#ff212021</color>
+    <color name="play_card_light_background">#ff000000</color>
 
     <color name="play_banner_light_fg">#ff000000</color>
 	<color name="play_rated_overlay">#ff000000</color>
@@ -39,14 +38,14 @@
     <color name="background_material_light">#ff000000</color>
     <color name="background_floating_material_light">#ff000000</color>
 
-	<color name="whatsnew_apps">#ff777777</color>
-    <color name="whatsnew_books">#ff777777</color>
-    <color name="whatsnew_music">#ff777777</color>
-    <color name="whatsnew_movies">#ff777777</color>
-    <color name="whatsnew_newsstand">#ff777777</color>
+	<color name="whatsnew_apps">#ff1976D2</color>
+    <color name="whatsnew_books">#ff1976D2</color>
+    <color name="whatsnew_music">#ff1976D2</color>
+    <color name="whatsnew_movies">#ff1976D2</color>
+    <color name="whatsnew_newsstand">#ff1976D2</color>
 
     <color name="sliding_tab_text_color_active">#ffffffff</color>
 
-	<color name="play_fg_tabs">#ff212021</color>
+	<color name="play_fg_tabs">#ff000000</color>
 
  </resources>

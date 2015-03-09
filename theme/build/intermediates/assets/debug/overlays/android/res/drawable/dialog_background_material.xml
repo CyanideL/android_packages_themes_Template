@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <inset android:inset="16.0dip"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+  xmlns:android="http://schemas.android.com/apk/res/android">
     <shape android:shape="rectangle">
         <corners android:radius="2.0dip" />
-        <solid android:color="@*common:color/dialog_bg_color" />
+        <solid android:color="#ff000000" />
     </shape>
 </inset>

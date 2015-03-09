@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--THIS IS GOOGLE DIALER SHIT, LET'S EDIT THIS BITCH -->
+
+<resources>
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="DialtactsTheme">
+		<item name="android:windowBackground">@android:color/black</item>
+		<item name="android:colorBackground">@android:color/black</item>
+	</style>
+    <style name="SettingsStyle" parent="@android:style/Theme.Material" />
+</resources>

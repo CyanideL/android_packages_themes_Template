@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--OVERRIDES FOR SUPERSU SHIT (SORRY CHAINFIRE)-->
+<!--THIS IS SUPERSU SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
-    <color name="black">#ff000000</color>
-    <color name="white">#ffffffff</color>
+    <color name="grey">#ff000000</color>
 
-    <color name="material_teal_500">#ff1976D2</color>
-    <color name="material_teal_900">#ff0D47A1</color>
-    <color name="material_teal_950">#ff0D47A1</color>
+    <color name="material_teal_500">#ff777777</color>
+    <color name="material_teal_900">#ff000000</color>
+    <color name="material_teal_950">#ff000000</color>  
 </resources>

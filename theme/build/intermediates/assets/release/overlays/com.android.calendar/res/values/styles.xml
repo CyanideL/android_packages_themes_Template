@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--THIS IS CALENDAR SHIT, LET'S EDIT THIS BITCH -->
+
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+</resources>

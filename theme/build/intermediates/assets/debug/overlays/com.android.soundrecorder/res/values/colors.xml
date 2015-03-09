@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--COLOR OVERRIDES FOR SOUND RECORDER SHIT-->
+<!--THIS IS SOUND RECORDER SHIT, LET'S EDIT THIS BITCH -->
+
 
 <resources>
-    <color name="material_primary">#ff1f1f1f</color>
-    <color name="material_dark">#ff0d0c0d</color>
+    <color name="material_primary">#ff000000</color>
+    <color name="material_dark">#ff000000</color>
 	
     <color name="bottom_bar_background">@color/material_primary</color>
 	
-    <color name="button_background_pressed_color">#1a1976D2</color>
-    <color name="button_background_focused_color">#771976D2</color>
+    <color name="button_background_pressed_color">#1affffff</color>
+    <color name="button_background_focused_color">#77ffffff</color>
 </resources>

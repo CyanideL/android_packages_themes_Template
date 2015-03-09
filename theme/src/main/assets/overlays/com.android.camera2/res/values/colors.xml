@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--COLOR OVERRIDES FOR CAMERA SHIT-->
+<!--THIS IS CAMERA SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
-    <color name="camera_mode_color">#ff1f1f1f</color>
-    <color name="video_mode_color">#ff1f1f1f</color>
-    <color name="refocus_mode_color">#ff1f1f1f</color>
-    <color name="photosphere_mode_color">#ff1f1f1f</color>
-    <color name="panorama_mode_color">#ff1f1f1f</color>
+	<!--Mode Switcher Buttons-->
+    <color name="camera_mode_color">#ff000000</color>
+    <color name="video_mode_color">#ff000000</color>
+    <color name="refocus_mode_color">#ff000000</color>
+    <color name="photosphere_mode_color">#ff000000</color>
+    <color name="panorama_mode_color">#ff000000</color>
 	
-    <color name="fullscreen_dialog_background_color">#ff212021</color>
+	<!--Setup Screen Colors-->
+    <color name="fullscreen_dialog_background_color">#ff000000</color>
     <color name="dialog_button_color">#ff000000</color>
-    <color name="dialog_text_color">#ff1976D2</color>
+    <color name="dialog_text_color">#ffffffff</color>
 	
-    <color name="settings_cling_color">#ff0d47a1</color>
-    <color name="mode_icon_hover_highlight">#2dffffff</color>
-    <color name="crop_shadow_color">#cf0d47a1</color>
-    <color name="crop_shadow_wp_color">#4f000000</color>
-    <color name="crop_wp_markers">#7fffffff</color>
+    <color name="settings_cling_color">#ff1976D2</color>
+    <color name="mode_icon_hover_highlight">#ffffffff</color>
+    <color name="crop_shadow_color">#b4000000</color>
+    <color name="crop_shadow_wp_color">#b4000000</color>
+    <color name="crop_wp_markers">#8fffffff</color>
 </resources>

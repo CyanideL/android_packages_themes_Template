@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- You are editing Contacts.apk's Styles-->
+<!-- THIS IS CONTACTS SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
-    <style name="PeopleTheme" parent="@android:style/Theme.Material" >
-		<item name="android:statusBarColor">@color/primary_color_dark</item>
-        <item name="android:textColor">@color/text_color</item>
-	</style>
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@color/dialer_theme_color</item>
+    </style>
 </resources>

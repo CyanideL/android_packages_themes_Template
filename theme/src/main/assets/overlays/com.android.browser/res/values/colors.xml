@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Browser.apk's Colors-->
+<!--THIS IS BROWSER SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
+	<!--Custom Colors-->
     <color name="black">#ff000000</color>
 
-    <color name="primary">#ff292929</color>
-    <color name="primary_dark">#ff1f1f1f</color>
-    <color name="accent">#ff1976D2</color>
-    <color name="floating_action_button_touch_tint">#ff0d47a1</color>
+    <color name="primary">#ff000000</color>
+    <color name="primary_dark">#ff000000</color>
+    <color name="accent">#ff000000</color>
+    <color name="floating_action_button_touch_tint">#ff1976D2</color>
 	
-    <color name="tabFaviconBackground">#ff1f1f1f</color>
-    <color name="tabFocusHighlight">#ff1976D2</color>
+    <color name="tabFaviconBackground">#ff000000</color>
+    <color name="tabFocusHighlight">#ff000000</color>
 	
-    <color name="qc_normal">#ff1f1f1f</color>
-    <color name="qc_selected">#ff292929</color>
-    <color name="qc_sub">#ff292929</color>
-    <color name="qc_tab_nr">#ff292929</color>
+    <color name="qc_normal">#ff000000</color>
+    <color name="qc_selected">#ff000000</color>
+    <color name="qc_sub">#ff000000</color>
+    <color name="qc_tab_nr">#ff000000</color>
 </resources>

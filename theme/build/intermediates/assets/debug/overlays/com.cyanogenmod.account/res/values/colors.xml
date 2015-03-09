@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--THIS IS CMACCOUNT SHIT, LET'S EDIT THIS BITCH -->
+
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="window_background">#ff000000</color>
+    <color name="page_background">#ff000000</color>
+	
+    <color name="primary">#ff000000</color>
+    <color name="primary_dark">#ff000000</color>
+    <color name="accent">#ff1976D2</color>
+</resources>

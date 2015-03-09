@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--STYLE OVERRIDES FOR GALLERY SHIT-->
+<!--THIS IS GALLERY SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
-	<style name="Theme.GalleryBase" parent="@android:style/Theme.Material" />
-    <style name="Theme.Gallery" parent="@style/Theme.GalleryBase">
-		<item name="android:statusBarColor">@color/primary</item>		
+	<style name="Theme.GalleryBase" parent="@android:style/Theme.Material">
+		<item name="android:statusBarColor">@color/primary</item>
+		<item name="android:windowBackground">@android:color/black</item>
 	</style>
 </resources>

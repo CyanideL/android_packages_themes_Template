@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--THIS IS PACKAGE INSTALLER SHIT, LET'S EDIT THIS BITCH -->
+
+<resources>
+	<!--Fail/Succeed Colors, check Drawables-->
+	<color name="success">#ff1976D2</color>
+	<color name="fail">#ffff0000</color>
+</resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/thegeekynimrod/Desktop/theme%20bullshit/theme/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/brett/android_packages_themes_Template/theme/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="theme_author">TheGeekyNimrod</string>
     <string name="theme_name">Cyanide Blue</string>
-    <!-- From: file:/home/thegeekynimrod/Desktop/theme%20bullshit/theme/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/brett/android_packages_themes_Template/theme/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

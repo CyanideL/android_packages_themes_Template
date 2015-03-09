@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--COLOR OVERRIDES FOR GALLERY SHIT-->
+<!--THIS IS GALLERY SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
     <color name="default_background">#ff000000</color>
@@ -7,14 +7,17 @@
     <color name="background_screen">#ff000000</color>
     <color name="filtershow_background">#ff000000</color>
     <color name="filtershow_categoryview_background">#ff000000</color>
-
-    <color name="primary">#ff1f1f1f</color>
-    <color name="primary_dark">#ff0d0c0d</color>
-    <color name="accent">#ff1976D2</color>
-    <color name="fab">#ff1976D2</color>
+	<color name="album_background">#ff000000</color>
+	<color name="photo_background">#ff000000</color>
+	<color name="slideshow_background">#ff000000</color> 
+	
+    <color name="primary">#ff212021</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="accent">#ff212021</color>
+    <color name="fab">#ff212021</color>
 	<color name="floating_action_button_touch_tint">#ff777777</color>
-    <color name="background_toolbar">#ff1f1f1f</color>
-    <color name="background_main_toolbar">#ff1f1f1f</color>
+    <color name="background_toolbar">#ff212021</color>
+    <color name="background_main_toolbar">#ff212021</color>
 	
 	<color name="photo_placeholder">#ff000000</color>
     <color name="cache_background">#ff000000</color>

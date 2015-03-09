@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--HANGOUTS SHIT, LET'S EDIT THIS BITCH -->
+
+<resources>
+	<!--Main Colors for Hangouts-->
+    <color name="quantum_googgreen700">#ff000000</color>
+    <color name="quantum_googgreen500">#ff000000</color>
+    <color name="quantum_googgreen400">#ff1976D2</color>
+	<color name="default_status_bar_color">#ff000000</color>
+	<color name="bg_item_touch_feedback">#ff1976D2</color>
+
+	<!--People in this hangout inside People & Options-->
+	<color name="conversation_name">#ff1976D2</color>
+	<color name="participant_name">#ff1976D2</color>
+	
+	<!--Primary and Secondary Colors-->
+    <color name="primary_text_default_material_dark">@android:color/white</color>
+    <color name="secondary_text_default_material_dark">@android:color/white</color>
+    <color name="primary_text_disabled_material_dark">@android:color/white</color>
+    <color name="secondary_text_disabled_material_dark">@android:color/white</color>
+
+	<!--Resend, Contacts titles, Phone Number Text Colors-->
+    <color name="text_default_color_dark">#ffffffff</color>
+    <color name="text_secondary_default_color_dark">#ffffffff</color>
+    <color name="text_tertiary_default_color_dark">#ff1976D2</color>
+    <color name="tab_background_color">#ff000000</color>
+    <color name="tab_text_color">#ff1976D2</color>
+	
+	<!--Getting rid of Material Colors-->
+	<color name="accent">#ff1976D2</color>
+	<color name="quantum_teal500">#ff1976D2</color>
+	<color name="material_deep_teal_500">#ff1976D2</color>
+	
+	<!--Text and Attachment background-->
+    <color name="realtimechat_message_text">@android:color/white</color>
+    <color name="realtimechat_message_timestamp">#ff1976D2</color>
+    <color name="realtimechat_message_text_otr">@android:color/white</color>
+    <color name="realtimechat_message_timestamp_otr">#ff1976D2</color>
+    <color name="realtimechat_message_textlink">#ff1976D2</color>
+    <color name="realtimechat_message_byline_failed">#ffff0000</color>
+    <color name="realtimechat_system_information_foreground">@android:color/white</color>
+    <color name="realtimechat_system_error_foreground">#ffff0000</color>
+    <color name="time_since">#ff1976D2</color>
+    <color name="last_message">#ff1976D2</color>
+	
+	<!--Conversation background, bar backgrounds-->
+    <color name="button_bar_background">#ff000000</color>
+    <color name="ongoing_hangout_background">#ff000000</color>
+    <color name="hangout_present_banner_background">#ff000000</color>
+    <color name="conversation_bg_color">#ff000000</color>
+    <color name="compose_message_view_bg">#ff000000</color>
+    <color name="compose_message_view_text_color">@android:color/white</color>
+    <color name="compose_message_view_text_color_otr">@android:color/white</color>
+    <color name="compose_message_view_hint_text_color">@android:color/white</color>
+    <color name="compose_message_view_hint_text_color_otr">@android:color/white</color>
+    <color name="attachment_name_background_color">#ff000000</color>
+</resources>
